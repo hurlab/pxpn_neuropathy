@@ -1,0 +1,4 @@
+[PATH/TO/expression_matrix.txt rows = genes, cols = samples]
+[PATH/TO/Rdata with pathway annotation, optional]
+[PATH/TO/group_info, column1 = sample_name, column2 = group type; tab-separated]
+[PATH/TO/features.Rdata, RData containing single "features_exp_norm" char with ordered gene names]
